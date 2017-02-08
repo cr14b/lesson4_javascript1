@@ -10,13 +10,12 @@ LIS 2360:  Web Application Development
 (Claudia Reoyo)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I had to accurately follow directions in order to ensure this program works. This program, when executed correctly, calculates how much of your money goes towards each expense.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://cr14b.github.io/lesson4_javascript1/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to display words in this assignment using javascript.)
+2. (I learned that the postiotion of code is very important and can affect the outcome of the program, affecting how it works.)
+3. (I learned the importance of place holders and that it allows the user to have a better user-friendly experience with a well-organized program.)
